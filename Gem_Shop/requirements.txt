@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlmodel
+alembic
+pyJWT       #it is a python library for JSON Web Token. JWT has 3 parts: Header, Payload, Signature  
+bcrypt #it is a password hashing library
+passlib #it is a password hashing library
